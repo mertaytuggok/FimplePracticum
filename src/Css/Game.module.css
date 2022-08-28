@@ -1,0 +1,27 @@
+.historyX {
+  color: black;
+  font-size: 44px;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: white;
+
+
+}
+
+.historyO {
+  color: black;
+  font-size: 44px;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: white;
+
+
+}
